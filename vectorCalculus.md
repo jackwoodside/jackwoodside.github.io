@@ -1,3 +1,6 @@
+---
+\usepackage{amsmath}
+---
 # Vector Calculus
 
 ## Coordinate System Conversion
