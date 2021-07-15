@@ -1,5 +1,7 @@
 ---
-\usepackage{amsmath}
+header-includes:
+   - \usepackage{amsmath}
+   - \usepackage{amssymb}
 ---
 # Vector Calculus
 
