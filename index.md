@@ -1,5 +1,7 @@
 # Useful Stuff
 
+$$ ax^2 + bx + c = 0 $$
+
 ## Formula References
 
 * [Vector Calculus](https://0003c9fe.github.io/vectorCalculus)
