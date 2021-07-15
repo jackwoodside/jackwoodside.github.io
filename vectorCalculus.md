@@ -1,8 +1,17 @@
+---
+usemathjax: true
+---
 # Vector Calculus
 
 ## Coordinate System Conversion
 
 ### Spherical
+$x^2$
+$$x^3$$
+\[
+x^3 = 4
+x^2 = 3
+\]
 \begin{align}
 x &= r\sin\theta\cos\phi &x = \sin\theta\cos\phi r + \cos\theta\cos\phi \theta - \sin\phi \phi \\
 y &= r\sin\theta\sin\phi &y = \sin\theta\sin\phi r + \cos\theta\sin\phi \theta + \cos\phi \phi \\
