@@ -6,7 +6,7 @@
 * Quantum Mechanics
 * Fourier Series/Transforms
 
-# Useful Pages
+## Useful Pages
 
 * [Scientific Computing Examples](http://kitchingroup.cheme.cmu.edu/pycse/pycse.html)
 * [Series Solution to an ODE in Mathematica](https://www.wolfram.com/language/12/asymptotics/compute-a-series-solution-asymptoticdsolvevalue.html?product=mathematica)
