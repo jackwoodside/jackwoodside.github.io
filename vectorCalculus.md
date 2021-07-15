@@ -1,9 +1,6 @@
----
-usemathjax: true
----
 # Vector Calculus
 
 ## Coordinate System Conversion
 
 ### Spherical
-$x^3$
+$$x^3$$
