@@ -18,7 +18,7 @@ $$\mathbf{\hat{z}} = \cos\theta\mathbf{\hat{r}} - \sin\theta\mathbf{\hat{\boldsy
 
 $$r = \sqrt{x^2 + y^2 + z^2}$$
 
-$$\theta = \tan^{-1}(\sqrt{x^2 + y^2}/z)
+$$\theta = \tan^{-1}(\sqrt{x^2 + y^2}/z)$$
 
 $$\phi = \tan^{-1}(y/x)$$
 
