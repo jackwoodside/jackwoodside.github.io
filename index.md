@@ -2,11 +2,11 @@
 
 ## Formula References
 
-* Vector Calculus
-* Classical Mechanics
-* Electrodynamics
-* Quantum Mechanics
-* Fourier Series/Transforms
+* [Vector Calculus](https://0003c9fe.github.io/vectorCalculus)
+* [Classical Mechanics](https://0003c9fe.github.io/classicalMechanics)
+* [Electrodynamics](https://0003c9fe.github.io/electrodynamics)
+* [Quantum Mechanics](https://0003c9fe.github.io/quantumMechanics)
+* [Fourier Series/Transforms](https://0003c9fe.github.io/fourier)
 
 ## Useful Pages
 
