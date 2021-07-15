@@ -6,6 +6,4 @@ usemathjax: true
 ## Coordinate System Conversion
 
 ### Spherical
-{% raw %}
-$$x^3$$
-{% endraw %}
+$x^3$
