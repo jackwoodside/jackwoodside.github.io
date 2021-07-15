@@ -1,10 +1,4 @@
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 # Useful Stuff
-
-$$ ax^2 + bx + c = 0 $$
-
-$x^2$
 
 ## Formula References
 
@@ -14,10 +8,12 @@ $x^2$
 * [Quantum Mechanics](https://0003c9fe.github.io/quantumMechanics)
 * [Fourier Series/Transforms](https://0003c9fe.github.io/fourier)
 
-## Useful Pages
+## Misc. Resources
 
 * [Scientific Computing Examples](http://kitchingroup.cheme.cmu.edu/pycse/pycse.html)
 * [Series Solution to an ODE in Mathematica](https://www.wolfram.com/language/12/asymptotics/compute-a-series-solution-asymptoticdsolvevalue.html?product=mathematica)
+* [LaTeX Tables Generator](https://www.tablesgenerator.com/)
+* [LaTeX Physics Package Documentation](http://mirrors.ctan.org/macros/latex/contrib/physics/physics.pdf)
 
 ## Textbooks
 
