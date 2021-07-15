@@ -2,18 +2,19 @@
 
 ## Formula References
 
-* [Vector Calculus](https://0003c9fe.github.io/vectorCalculus)
 * [Classical Mechanics](https://0003c9fe.github.io/classicalMechanics)
 * [Electrodynamics](https://0003c9fe.github.io/electrodynamics)
-* [Quantum Mechanics](https://0003c9fe.github.io/quantumMechanics)
 * [Fourier Series/Transforms](https://0003c9fe.github.io/fourier)
+* [Quantum Mechanics](https://0003c9fe.github.io/quantumMechanics)
+* [Vector Calculus](https://0003c9fe.github.io/vectorCalculus)
 
 ## Misc. Resources
 
-* [Scientific Computing Examples](http://kitchingroup.cheme.cmu.edu/pycse/pycse.html)
-* [Series Solution to an ODE in Mathematica](https://www.wolfram.com/language/12/asymptotics/compute-a-series-solution-asymptoticdsolvevalue.html?product=mathematica)
+* [LaTeX Symbol Finder](https://detexify.kirelabs.org/classify.html)
 * [LaTeX Tables Generator](https://www.tablesgenerator.com/)
 * [LaTeX Physics Package Documentation](http://mirrors.ctan.org/macros/latex/contrib/physics/physics.pdf)
+* [Scientific Computing Examples](http://kitchingroup.cheme.cmu.edu/pycse/pycse.html)
+* [Series Solution to an ODE in Mathematica](https://www.wolfram.com/language/12/asymptotics/compute-a-series-solution-asymptoticdsolvevalue.html?product=mathematica)
 
 ## Textbooks
 
