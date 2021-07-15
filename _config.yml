@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-name: References
-title: null
+name: Name
+title: title
+description: description
