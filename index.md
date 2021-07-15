@@ -1,5 +1,3 @@
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 # Useful Stuff
 
 $$ ax^2 + bx + c = 0 $$
@@ -52,3 +50,6 @@ $$ ax^2 + bx + c = 0 $$
 * Statistical Mechanics:
   * An Introduction to Thermal Physics - Schroeder
   * Introduction to Statistical Physics - Huang
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
