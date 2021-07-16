@@ -72,3 +72,5 @@ and the second term is $$\begin{aligned}
         &= FN.\end{aligned}$$ Overall, the variance is $$\begin{aligned}
         \ev{\sigma_{\hat{N}_x}} &= F^2N(N-1) + FN - F^2N^2 \\
                                 &= N(F-F^2).\end{aligned}$$
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
