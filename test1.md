@@ -12,7 +12,7 @@ measurement?\
 \
 Initially, our state is $$\ket{\psi} = \ket{N,\{0\}}$$. The number
 operator is given by $$\begin{aligned}
-        \hat{N} &= \int \dd x \hat{\psi}^{\dagger}(x)\hat{\psi}(x)\end{aligned}$$
+        \hat{N} &= \int \dd{x}\hat{\psi}^{\dagger}(x)\hat{\psi}(x)\end{aligned}$$
 so the number of particles on the left is $$\begin{aligned}
          \hat{N}_l &= \int_{-\infty}^{0} \dd x \hat{\psi}^{\dagger}(x)\hat{\psi}(x).\end{aligned}$$
 Since our state is in number notation, it would be easier if we convert
