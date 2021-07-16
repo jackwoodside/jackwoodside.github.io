@@ -1,9 +1,3 @@
----
-header-includes:
-- \usepackage{physics}
-- \newcommand{\x}{\vb{x}}
----
-
 # Question 3.
 
 \(a\) In 1D, trying $$\vb{x}$$ and $$\vu{y}$$ and $$\curl{F}$$ and $$\x$$, all $$N$$ particles occupy the ground state of a harmonic
