@@ -1,4 +1,4 @@
-# Question 3.
+# Question 3. $$\require{physics}\newcommand{\x}{\vb{x}}$$
 
 \(a\) In 1D, trying $$\vb{x}$$ and $$\vu{y}$$ and $$\curl{F}$$ and $$\x$$, all $$N$$ particles occupy the ground state of a harmonic
 potential centred around $$x = 0$$. If we measured the number of particles
