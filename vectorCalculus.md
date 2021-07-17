@@ -1,11 +1,11 @@
 # Vector Calculus
 $$
 \require{physics}
-\def\x{{\vu{x}}}
-\def\y{{\vu{y}}}
-\def\z{{\vu{z}}}
-\def\r{{\vu{r}}}
-\def\s{{\vu{s}}}
+\newcommand{\x}{\vu{x}}
+\newcommand{\y}{\vu{y}}
+\newcommand{\z}{\vu{z}}
+\newcommand{\r}{\vu{r}}
+\newcommand{\s}{\vu{s}}
 $$
 
 ## Coordinate System Conversion
