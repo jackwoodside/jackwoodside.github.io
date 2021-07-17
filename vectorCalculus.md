@@ -1,3 +1,22 @@
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script>
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true
+    }
+    TeX: {
+      Macros: {
+        x: "{\vu{x}}"
+        y: "{\vu{y}}"
+        z: "{\vu{z}}"
+        r: "{\vu{r}}"
+        s: "{\vu{s}}"
+      }
+    }
+  });
+</script>
 # Vector Calculus $$\require{physics}$$
 
 ## Coordinate System Conversion
@@ -51,23 +70,3 @@ $$\mathbf{\hat{\boldsymbol{\phi}}} = -\sin\phi\x + \cos\phi\y$$
 ## Identities
 
 ## Theorems
-
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
-<script>
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [['$','$'], ['\\(','\\)']],
-      processEscapes: true
-    }
-    TeX: {
-      Macros: {
-        x: "{\vu{x}}"
-        y: "{\vu{y}}"
-        z: "{\vu{z}}"
-        r: "{\vu{r}}"
-        s: "{\vu{s}}"
-      }
-    }
-  });
-</script>
