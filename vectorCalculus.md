@@ -10,7 +10,7 @@ $$y = r\sin\theta\sin\phi$$
 
 $$z = r\cos\theta$$
 
-$$\x = \sin\theta\cos\phi\r + \cos\theta\cos\phi\mathbf{\hat{\boldsymbol{\theta}}} - \sin\phi\mathbf{\hat{\boldsymbol{\phi}}}$$
+$$\x = \sin\theta\cos\phi\r + \cos\theta\cos\phi\hat{\boldsymbol{\theta}} - \sin\phi\hat{\boldsymbol{\phi}}$$
 
 $$\y = \sin\theta\sin\phi\r + \cos\theta\sin\phi\mathbf{\hat{\boldsymbol{\theta}}} + \cos\phi\mathbf{\hat{\boldsymbol{\phi}}}$$
 
