@@ -38,7 +38,7 @@
 * Scientific Computing:
   * An Introduction to Error Analysis - Taylor
   * Data Reduction and Error Analysis for the Physical Sciences - Bevington, Robinson
-  * <span style="color:red">Industrial Mathematics: Modeling in Industry, Science, and Government - MacCluer</span>
+  * Industrial Mathematics: Modeling in Industry, Science, and Government - MacCluer
   * Mathematical Modelling with Case Studies - Barnes, Fulford
   * Numerical Recipes - Press
 
