@@ -34,7 +34,13 @@
 * Number Theory:
   * Discrete Mathematica - Lipschutz, Lipson
   * Mathematical Thinking: Problem-Solving and Proofs - D'Angelo, West
-* Scientific Computing: Numerical Recipes - Press
+* Probability Theory: The Pleasures of Probability - Isaac
+* Scientific Computing:
+  * An Introduction to Error Analysis - Taylor
+  * Data Reduction and Error Analysis for the Physical Sciences - Bevington, Robinson
+  * <span style="color:red">Industrial Mathematics: Modeling in Industry, Science, and Government - MacCluer</span>
+  * Mathematical Modelling with Case Studies - Barnes, Fulford
+  * Numerical Recipes - Press
 
 ### Physics
 
@@ -44,6 +50,7 @@
   * Modern Electrodynamics - Zangwill
 * Experimental Physics:
   * Building Scientific Apparatus - Moore
+  * The Art of Electronics - Horowitz, Hill
   * Radiation Detection and Measurement - Knoll
 * Quantum Mechanics:
   * Introduction to Quantum Mechanics - Griffiths
