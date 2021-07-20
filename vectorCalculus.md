@@ -70,7 +70,7 @@ $$\divergence{\v} = \frac{1}{r^2}\pdv{r}(r^2v_r) + \frac{1}{r\sin\theta}\pdv{\th
 
 $$\curl{\v} = \frac{1}{r\sin\theta}\left(\pdv{\theta}(\sin\theta v_\phi) - \pdv{v_\theta}{\phi}\right)\r + \frac{1}{r}\left(\frac{1}{\sin\theta}\pdv{v_r}{\phi} - \pdv{r}(rv_\phi)\right)\q + \frac{1}{r}\left(\pdv{r}(rv_\theta) - \pdv{v_r}{\theta}\right)\f$$
 
-$$\grad^2f = \frac{1}{r^2}\pdv{r}\left(r^2\pdv{f}{r}\right) + \frac{1}{r^2\sin\theta}\pdv{\theta}\left(\sin\theta\pdv{\phi}{\theta}\right) + \frac{1}{r^2\sin^2\theta}\pdv[2]{f}{\phi}$$
+$$\grad^2f = \frac{1}{r^2}\pdv{r}\left(r^2\pdv{f}{r}\right) + \frac{1}{r^2\sin\theta}\pdv{\theta}\left(\sin\theta\pdv{f}{\theta}\right) + \frac{1}{r^2\sin^2\theta}\pdv[2]{f}{\phi}$$
 
 ### Cylindrical
 
