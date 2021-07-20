@@ -54,7 +54,7 @@ $$\dd\l = \dd x \x + \dd y \y + \dd z \z \qquad \dd \tau = \dd x \dd y \dd z$$
 
 $$\grad{f} = \pdv{f}{x}\x + \pdv{f}{y}\y + \pdv{f}{z}\z$$
 
-$$\div{\v} = \pdv{v_x}{x} + \pdv{v_y}{y} + \pdv{v_z}{z}$$
+$$\divergence{\v} = \pdv{v_x}{x} + \pdv{v_y}{y} + \pdv{v_z}{z}$$
 
 $$\curl{\v} = \left(\pdv{v_z}{y} - \pdv{v_y}{z}\right)\x + \left(\pdv{v_x}{z} - \pdv{v_z}{x}\right)\y + \left(\pdv{v_y}{x} - \pdv{v_x}{y}\right)\z$$
 
@@ -62,7 +62,27 @@ $$\grad^2f = \pdv[2]{f}{x} + \pdv[2]{f}{y} + \pdv[2]{f}{z}$$
 
 ### Spherical
 
+$$\dd\l = \dd r \r + r \dd \theta \q + r\sin\theta \dd \phi \f \qquad \dd \tau = r^2\sin\theta \dd r \dd \theta \dd \phi$$
+
+$$\grad{f} = \pdv{f}{r}\r + \frac{1}{r}\pdv{f}{\theta}\q + \frac{1}{r\sin\theta}\pdv{f}{\phi}\f$$
+
+$$\divergence{\v} = \frac{1}{r^2}\pdv{r}(r^2v_r) + \frac{1}{r\sin\theta}\pdv{\theta}(\sin\theta v_\theta) + \frac{1}{r\sin\theta}\pdv{v_\phi}{\phi}$$
+
+$$\curl{\v} = \frac{1}{r\sin\theta}\left(\pdv{\theta}(\sin\theta v_\phi) - \pdv{v_\theta}{\phi}\right)\r + \frac{1}{r}\left(\frac{1}{\sin\theta}\pdv{v_r}{\phi} - \pdv{r}(rv_\phi)\right)\q + \frac{1}{r}\left(\pdv{r}(rv_\theta) - \pdv{v_r}{\theta}\right)\f$$
+
+$$\grad^2f = \frac{1}{r^2}\pdv{r}\left(r^2\pdv{f}{r}\right) + \frac{1}{r^2\sin\theta}\pdv{\theta}\left(\sin\theta\pdv{\phi}{\theta}\right) + \frac{1}{r^2\sin^2\theta}\pdv[2]{f}{\phi}$$
+
 ### Cylindrical
+
+$$\dd\l = \dd s \s + s \dd \phi \f + \dd z \z \qquad \dd \tau = s \dd s \dd \phi \dd z$$
+
+$$\grad{f} = \pdv{f}{s}\s + \frac{1}{s}\pdv{f}{\phi}\f + \pdv{f}{z}\z$$
+
+$$\divergence{\v} = \frac{1}{s}\pdv{s}(sv_s) + \frac{1}{s}\pdv{v_\phi}{\phi} + \pdv{v_z}{z}$$
+
+$$\curl{\v} = \left(\frac{1}{s}\pdv{v_z}{\phi} - \pdv{v_\phi}{z}\right)\s + \left(\pdv{v_s}{z} - \pdv{v_z}{s}\right)\f + \frac{1}{s}\left(\pdv{s}(sv_\phi) - \pdv{v_s}{\phi}\right)\z$$
+
+$$\grad^2f = \frac{1}{s}\pdv{s}\left(s\pdv{f}{s}\right) + \frac{1}{s^2}\pdv[2]{f}{\phi} + \pdv[2]{f}{z}$$
 
 ## Identities
 
