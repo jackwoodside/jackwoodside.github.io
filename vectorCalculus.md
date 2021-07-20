@@ -56,9 +56,9 @@ $$\grad{f} = \pdv{f}{x}\x + \pdv{f}{y}\y + \pdv{f}{z}\z$$
 
 $$\div{\v} = \pdv{v_x}{x} + \pdv{v_y}{y} + \pdv{v_z}{z}$$
 
-$$\curl{\v} = \left(\pdv{v_z}{y} - \pdv{v_y}{z}\right)\x + \left(\pdv{v_x}{z} - \pdv{v_z}{x}\right)\y + \left(\pdv{v_y}{x} - \pdv{v_x}{y}\right)\z
+$$\curl{\v} = \left(\pdv{v_z}{y} - \pdv{v_y}{z}\right)\x + \left(\pdv{v_x}{z} - \pdv{v_z}{x}\right)\y + \left(\pdv{v_y}{x} - \pdv{v_x}{y}\right)\z$$
 
-$$\grad^2f = \pdv[2]{f}{x} + \pdv[2]{f}{y} + \pdv[2]{f}{z}
+$$\grad^2f = \pdv[2]{f}{x} + \pdv[2]{f}{y} + \pdv[2]{f}{z}$$
 
 ### Spherical
 
