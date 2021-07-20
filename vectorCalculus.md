@@ -1,6 +1,6 @@
-# Vector Calculus$$\require{physics}\newcommand{\x}{\vu{x}}\newcommand{\y}{\vu{y}}\newcommand{\z}{\vu{z}}\newcommand{\r}{\vu{r}}\newcommand{\s}{\vu{s}}$$
+# Vector Calculus
 
-## Coordinate System Conversion
+## Coordinate System Conversion$$\require{physics}\newcommand{\x}{\vu{x}}\newcommand{\y}{\vu{y}}\newcommand{\z}{\vu{z}}\newcommand{\r}{\vu{r}}\newcommand{\s}{\vu{s}}\newcommand{\l}{\vb{l}}\newcommand{\v}{\vb{v}}\newcommand{\f}{\hat{\boldsymbol{\phi}}}\newcommand{\q}{\hat{\boldsymbol{\theta}}}$$
 
 ### Spherical
 
@@ -10,11 +10,11 @@ $$y = r\sin\theta\sin\phi$$
 
 $$z = r\cos\theta$$
 
-$$\x = \sin\theta\cos\phi\r + \cos\theta\cos\phi\hat{\boldsymbol{\theta}} - \sin\phi\hat{\boldsymbol{\phi}}$$
+$$\x = \sin\theta\cos\phi\r + \cos\theta\cos\phi\q - \sin\phi\f$$
 
-$$\y = \sin\theta\sin\phi\r + \cos\theta\sin\phi\mathbf{\hat{\boldsymbol{\theta}}} + \cos\phi\mathbf{\hat{\boldsymbol{\phi}}}$$
+$$\y = \sin\theta\sin\phi\r + \cos\theta\sin\phi\q + \cos\phi\f$$
 
-$$\z = \cos\theta\r - \sin\theta\mathbf{\hat{\boldsymbol{\theta}}}$$
+$$\z = \cos\theta\r - \sin\theta\q$$
 
 $$r = \sqrt{x^2 + y^2 + z^2}$$
 
@@ -24,9 +24,9 @@ $$\phi = \tan^{-1}(y/x)$$
 
 $$\r = \sin\theta\cos\phi\x + \sin\theta\sin\phi\y + \cos\theta\z$$
 
-$$\mathbf{\hat{\boldsymbol{\theta}}} = \cos\theta\cos\phi\x + \cos\theta\sin\phi\y - \sin\theta\z$$
+$$\q = \cos\theta\cos\phi\x + \cos\theta\sin\phi\y - \sin\theta\z$$
 
-$$\mathbf{\hat{\boldsymbol{\phi}}} = -\sin\phi\x + \cos\phi\y$$
+$$\f = -\sin\phi\x + \cos\phi\y$$
 
 ### Cylindrical
 
@@ -34,9 +34,9 @@ $$x = s\cos\phi$$
 
 $$y = s\sin\phi$$
 
-$$\x = \cos\phi\s - \sin\phi\mathbf{\hat{\boldsymbol{\phi}}}$$
+$$\x = \cos\phi\s - \sin\phi\f$$
 
-$$\y = \sin\phi\s + \cos\phi\mathbf{\hat{\boldsymbol{\phi}}}$$
+$$\y = \sin\phi\s + \cos\phi\f$$
 
 $$s = \sqrt{x^2 + y^2}$$
 
@@ -44,7 +44,7 @@ $$\phi = \tan^{-1}(y/x)$$
 
 $$\s = \cos\phi\x + \sin\phi\y$$
 
-$$\mathbf{\hat{\boldsymbol{\phi}}} = -\sin\phi\x + \cos\phi\y$$
+$$\f = -\sin\phi\x + \cos\phi\y$$
 
 ## Derivatives
 
