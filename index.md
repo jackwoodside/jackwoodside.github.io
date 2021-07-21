@@ -30,9 +30,9 @@
   * Partial Differential Equations - Strauss
 * Linear Algebra:
   * Elementary Linear Algebra - Anton, Rorres
-  * Linear Algebra Done Right - Axler 
+  * Linear Algebra Done Right - Axler
 * Number Theory:
-  * Discrete Mathematica - Lipschutz, Lipson
+  * Discrete Mathematics - Lipschutz, Lipson
   * Mathematical Thinking: Problem-Solving and Proofs - D'Angelo, West
 * Probability Theory: The Pleasures of Probability - Isaac
 * Scientific Computing:
