@@ -1,6 +1,6 @@
 # Vector Calculus
 
-## Coordinate System Conversion$$\require{physics}\newcommand{\x}{\vu{x}}\newcommand{\y}{\vu{y}}\newcommand{\z}{\vu{z}}\newcommand{\r}{\vu{r}}\newcommand{\s}{\vu{s}}\newcommand{\l}{\vb{l}}\newcommand{\v}{\vb{v}}\newcommand{\f}{\hat{\boldsymbol{\phi}}}\newcommand{\q}{\hat{\boldsymbol{\theta}}}$$
+## Coordinate System Conversion$$\require{physics}\newcommand{\x}{\vu{x}}\newcommand{\y}{\vu{y}}\newcommand{\z}{\vu{z}}\newcommand{\r}{\vu{r}}\newcommand{\s}{\vu{s}}\newcommand{\l}{\vb{l}}\newcommand{\v}{\vb{v}}\newcommand{\f}{\hat{\boldsymbol{\phi}}}\newcommand{\q}{\hat{\boldsymbol{\theta}}}\newcommand{\A}{\vb{A}}\newcommand{\B}{\vb{B}}\newcommand{\C}{\vb{C}}$$
 
 ### Spherical
 
@@ -85,6 +85,16 @@ $$\curl{\v} = \left(\frac{1}{s}\pdv{v_z}{\phi} - \pdv{v_\phi}{z}\right)\s + \lef
 $$\grad^2f = \frac{1}{s}\pdv{s}\left(s\pdv{f}{s}\right) + \frac{1}{s^2}\pdv[2]{f}{\phi} + \pdv[2]{f}{z}$$
 
 ## Identities
+
+### Triple Products
+
+$$\A \cdot (\B \times \C) = \B \cdot (\C \times A) = \C \cdot (\A \times \B)$$
+
+$$\A \times (\B \times \C) = \B(\A \cdot \C) - \C(\A \cdot \B)$$
+
+### Product Rules
+
+
 
 ## Theorems
 
