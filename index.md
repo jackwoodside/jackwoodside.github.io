@@ -55,6 +55,9 @@
 * Quantum Mechanics:
   * Introduction to Quantum Mechanics - Griffiths
   * Modern Quantum Mechanics - Sakurai
+* Solid State Physics:
+  * Solid State Baiscs - Simon
+  * Solid State Physics - Hofmann
 * Statistical Mechanics:
   * An Introduction to Thermal Physics - Schroeder
   * Introduction to Statistical Physics - Huang
