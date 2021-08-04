@@ -7,6 +7,7 @@ These are some notebooks I have written solving various maths or physics problem
 * [Epidemiology](https://jackwoodside.github.io/scientificComputing/epidemiology)
   * [Basic SIR Model](https://jackwoodside.github.io/scientificComputing/epidemiology/sir)
   * [SEIR Model](https://jackwoodside.github.io/scientificComputing/epidemiology/seir)
+  * [Carrier States](https://jackwoodside.github.io/scientificComputing/epidemiology/carrier)
 
 ## Resources
 

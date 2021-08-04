@@ -4,3 +4,4 @@ In these notebooks we will go through several variations of the SIR model for mo
 
 * [Basic SIR Model](https://jackwoodside.github.io/scientificComputing/epidemiology/sir)
 * [SEIR Model](https://jackwoodside.github.io/scientificComputing/epidemiology/seir)
+* [Carrier States](https://jackwoodside.github.io/scientificComputing/epidemiology/carrier)
