@@ -19,5 +19,6 @@ These are some notebooks I have written solving various maths or physics problem
 * [LaTeX Symbol Finder](https://detexify.kirelabs.org/classify.html)
 * [LaTeX Tables Generator](https://www.tablesgenerator.com/)
 * [LaTeX Physics Package Documentation](http://mirrors.ctan.org/macros/latex/contrib/physics/physics.pdf)
+* [Optical Component Graphics Library](http://www.gwoptics.org/ComponentLibrary/)
 * [Scientific Computing Examples](http://kitchingroup.cheme.cmu.edu/pycse/pycse.html)
 * [Series Solution to an ODE in Mathematica](https://www.wolfram.com/language/12/asymptotics/compute-a-series-solution-asymptoticdsolvevalue.html?product=mathematica)
