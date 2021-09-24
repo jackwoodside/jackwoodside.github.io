@@ -1,6 +1,6 @@
-# Textbooks
+# Textbooks Recommendations
 
-Textbook recommendations for various fields in physics and maths.
+Textbook that I'd recommend for various fields in physics and maths.
 
 ## Maths
 
@@ -41,7 +41,7 @@ Textbook recommendations for various fields in physics and maths.
   * Introduction to Quantum Mechanics - Griffiths
   * Modern Quantum Mechanics - Sakurai
 * Solid State Physics:
-  * Solid State Baiscs - Simon
+  * Solid State Basics - Simon
   * Solid State Physics - Hofmann
 * Statistical Mechanics:
   * An Introduction to Thermal Physics - Schroeder
