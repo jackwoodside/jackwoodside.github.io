@@ -1,7 +1,9 @@
 # Formula References
 
-* [Classical Mechanics](https://jackwoodside.github.io/classicalMechanics)
-* [Electrodynamics](https://jackwoodside.github.io/electrodynamics)
-* [Fourier Series/Transforms](https://jackwoodside.github.io/fourier)
-* [Quantum Mechanics](https://jackwoodside.github.io/quantumMechanics)
-* [Vector Calculus](https://jackwoodside.github.io/vectorCalculus)
+* [Classical Mechanics](https://jackwoodside.github.io/formulas/classical-mechanics)
+* [Electrodynamics](https://jackwoodside.github.io/formulas/electrodynamics)
+* [Fourier Series/Transforms](https://jackwoodside.github.io/formulas/fourier)
+* [Quantum Mechanics](https://jackwoodside.github.io/formulas/quantum-mechanics)
+* [Statistical Mechanics](https://jackwoodside.github.io/formulas/statistical-mechanics)
+* [Thermodynamics](https://jackwoodside.github.io/formulas/thermodynamics)
+* [Vector Calculus](https://jackwoodside.github.io/formulas/vector-calculus)
