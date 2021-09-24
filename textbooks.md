@@ -1,6 +1,6 @@
-# Textbooks Recommendations
+# Textbook Recommendations
 
-Textbook that I'd recommend for various fields in physics and maths.
+Textbooks that I'd recommend for various fields in physics and maths.
 
 ## Maths
 
