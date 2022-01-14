@@ -4,7 +4,9 @@ Textbooks that I'd recommend for various fields in physics and maths.
 
 ## Maths
 
-* Abstract Algebra: Algebra - Artin
+* Abstract Algebra:
+  * Algebra - Artin
+  * Visual Group Theory - Carter
 * Calculus:
   * Calculus - Stewart
   * Calculus - Spivak
