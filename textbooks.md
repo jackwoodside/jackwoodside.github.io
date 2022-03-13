@@ -10,7 +10,7 @@ Textbooks that I'd recommend for various fields in physics and maths.
 * Calculus:
   * Calculus - Stewart
   * Calculus - Spivak
-* Complex Analysis: Visualising Complex Analysis - Needham
+* Complex Analysis: Visual Complex Analysis - Needham
 * Differential Equations:
   * Differential Equations with Boundary-Value Problems - Zill
   * Differential Equations with Modeling Applications - Zill
