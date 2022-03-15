@@ -4,7 +4,7 @@ Textbooks that I'd recommend for various fields in physics and maths.
 
 ## Maths
 
-* Abstract Algebra:
+* Algebra:
   * Algebra - Artin
   * Visual Group Theory - Carter
 * Calculus:
@@ -21,11 +21,12 @@ Textbooks that I'd recommend for various fields in physics and maths.
 * Number Theory:
   * Discrete Mathematics - Lipschutz, Lipson
   * Mathematical Thinking: Problem-Solving and Proofs - D'Angelo, West
-* Probability Theory: The Pleasures of Probability - Isaac
-* Scientific Computing:
+* Numerical Analysis:
   * An Introduction to Error Analysis - Taylor
   * Data Reduction and Error Analysis for the Physical Sciences - Bevington, Robinson
-  * Industrial Mathematics: Modeling in Industry, Science, and Government - MacCluer
+* Probability Theory: The Pleasures of Probability - Isaac
+* Scientific Computing:
+  * Industrial Mathematica: Modeling in Industry, Science, and Government - MacCluer
   * Mathematical Modelling with Case Studies - Barnes, Fulford
   * Numerical Recipes - Press
 
@@ -33,11 +34,12 @@ Textbooks that I'd recommend for various fields in physics and maths.
 
 * Classical Mechanics: Classical Mechanics - Goldstein
 * Electrodynamics:
+  * Classical Electrodynamics - Jackson
   * Introduction to Electrodynamics - Griffiths
   * Modern Electrodynamics - Zangwill
 * Experimental Physics:
-  * Building Scientific Apparatus - Moore
   * The Art of Electronics - Horowitz, Hill
+  * Building Scientific Apparatus - Moore
   * Radiation Detection and Measurement - Knoll
 * Quantum Mechanics:
   * Introduction to Quantum Mechanics - Griffiths
@@ -46,5 +48,5 @@ Textbooks that I'd recommend for various fields in physics and maths.
   * Solid State Basics - Simon
   * Solid State Physics - Hofmann
 * Statistical Mechanics:
-  * An Introduction to Thermal Physics - Schroeder
   * Introduction to Statistical Physics - Huang
+  * An Introduction to Thermal Physics - Schroeder
