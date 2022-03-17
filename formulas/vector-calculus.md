@@ -98,21 +98,21 @@ $$\grad(fg) = f(\grad g) + g(\grad f)$$
 
 $$\grad(\A \cdot \B) = \A \times (\curl{\B}) + \B \times (\curl{\A}) + (A \cdot \grad)\B + (\B \cdot \grad)\A$$
 
-$$\div{(f\A)} = f(\div{\A}) + \A \cdot (\grad f)$$
+$$\divergence{(f\A)} = f(\divergence{\A}) + \A \cdot (\grad f)$$
 
-$$\div{(\A \times \B)} = \B \cdot (\curl{\A}) - \A \cdot (\curl{\B})$$
+$$\divergence{(\A \times \B)} = \B \cdot (\curl{\A}) - \A \cdot (\curl{\B})$$
 
 $$\curl{(f\A)} = f(\curl{\A}) - A \times (\grad f)$$
 
-$$\curl{(\A \times \B)} = (\B \cdot \grad)\A - (\A \cdot \grad)\B + \A(\div{\B}) - \B(\div{\A})$$
+$$\curl{(\A \times \B)} = (\B \cdot \grad)\A - (\A \cdot \grad)\B + \A(\divergence{\B}) - \B(\divergence{\A})$$
 
 ### Second Derivatives
 
-$$\div{(\curl{\A})} = 0$$
+$$\divergence{(\curl{\A})} = 0$$
 
 $$\curl{(\grad f)} = 0$$
 
-$$\curl{(\curl{\A})} = \grad(\div{\A}) - \grad^2\A$$
+$$\curl{(\curl{\A})} = \grad(\divergence{\A}) - \grad^2\A$$
 
 ## Theorems
 
@@ -126,7 +126,7 @@ $$\int (\curl{\A}) \cdot \dd\a = \oint \A \cdot \dd\l$$
 
 ### Divergence Theorem
 
-$$\int (\div{\A}) \dd\tau = \oint \A \cdot \dd\a
+$$\int (\divergence{\A}) \dd\tau = \oint \A \cdot \dd\a$$
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
