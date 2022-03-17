@@ -1,6 +1,6 @@
 # Vector Calculus
 
-## Coordinate System Conversion$$\require{physics}\newcommand{\x}{\vu{x}}\newcommand{\y}{\vu{y}}\newcommand{\z}{\vu{z}}\newcommand{\r}{\vu{r}}\newcommand{\s}{\vu{s}}\newcommand{\l}{\vb{l}}\newcommand{\v}{\vb{v}}\newcommand{\f}{\hat{\boldsymbol{\phi}}}\newcommand{\q}{\hat{\boldsymbol{\theta}}}\newcommand{\A}{\vb{A}}\newcommand{\B}{\vb{B}}\newcommand{\C}{\vb{C}}$$
+## Coordinate System Conversion$$\require{physics}\newcommand{\x}{\vu{x}}\newcommand{\y}{\vu{y}}\newcommand{\z}{\vu{z}}\newcommand{\r}{\vu{r}}\newcommand{\s}{\vu{s}}\newcommand{\l}{\vb{l}}\newcommand{\v}{\vb{v}}\newcommand{\f}{\hat{\boldsymbol{\phi}}}\newcommand{\q}{\hat{\boldsymbol{\theta}}}\newcommand{\A}{\vb{A}}\newcommand{\B}{\vb{B}}\newcommand{\C}{\vb{C}}\newcommand{\a}{\vb{a}}\newcommand{\b}{\vb{b}}$$
 
 ### Spherical
 
@@ -94,9 +94,39 @@ $$\A \times (\B \times \C) = \B(\A \cdot \C) - \C(\A \cdot \B)$$
 
 ### Product Rules
 
+$$\grad(fg) = f(\grad g) + g(\grad f)$$
 
+$$\grad(\A \cdot \B) = \A \times (\curl{\B}) + \B \times (\curl{\A}) + (A \cdot \grad)\B + (\B \cdot \grad)\A$$
+
+$$\div{(f\A)} = f(\div{\A}) + \A \cdot (\grad f)$$
+
+$$\div{(\A \times \B)} = \B \cdot (\curl{\A}) - \A \cdot (\curl{\B})$$
+
+$$\curl{(f\A)} = f(\curl{\A}) - A \times (\grad f)$$
+
+$$\curl{(\A \times \B)} = (\B \cdot \grad)\A - (\A \cdot \grad)\B + \A(\div{\B}) - \B(\div{\A})$$
+
+### Second Derivatives
+
+$$\div{(\curl{\A})} = 0$$
+
+$$\curl{(\grad f)} = 0$$
+
+$$\curl{(\curl{\A})} = \grad(\div{\A}) - \grad^2\A$$
 
 ## Theorems
+
+### Gradient Theorem
+
+$$\int_\a^\b (\grad f) \cdot \dd\l = f(\b) - f(\a)$$
+
+### Stokes' Theorem
+
+$$\int (\curl{\A}) \cdot \dd\a = \oint \A \cdot \dd\l$$
+
+### Divergence Theorem
+
+$$\int (\div{\A}) \dd\tau = \oint \A \cdot \dd\a
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
