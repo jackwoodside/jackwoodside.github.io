@@ -18,8 +18,6 @@ $$(f \ast g)(x) = \int_{-\infty}^\infty f(x-y)g(y) \dd y$$
 
 ## Properties
 
-<div align="center">
-
 | $$f(x)$$       | $$\f(k)$$                |
 |:------------------:|:--------------------------------------:|
 | $$f'(x)$$      | $$2\pi ik\f(k)$$             |
@@ -31,11 +29,7 @@ $$(f \ast g)(x) = \int_{-\infty}^\infty f(x-y)g(y) \dd y$$
 | $$f(x)g(x)$$     | $$(\f \ast \g)(k)$$           |
 | $$(f \ast g)(x)$$  | $$\f(k)\g(k)$$              |
 
-</div>
-
 ## Common Transforms
-
-<div align="center">
 
 |                | $$f(x)$$     | $$\f(k)$$                  |
 |:--------------:|:---------------:|:------------------------------------------:|
@@ -46,8 +40,6 @@ $$(f \ast g)(x) = \int_{-\infty}^\infty f(x-y)g(y) \dd y$$
 |    Heaviside   | $$H(x)$$     | $$\frac{1}{2}\delta(k) + \frac{1}{2\pi ik}$$ |
 |      Sign      | $$H(x) - H(-x)$$ | $$\frac{1}{\pi ik}$$             |
 |     Square     | $$H(a-\abs{x})$$ | $$\frac{1}{\pi k}\sin(2\pi ka)$$       |
-
-</div>
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
