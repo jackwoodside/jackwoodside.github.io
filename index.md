@@ -2,7 +2,7 @@
 
 
 ## Scientific Computing Examples
-These are some notebooks I have written solving various maths or physics problems in Julia notebooks, generally with some sort of interactivity. The code for these can also be found [here](https://www.github.com/jackwoodside/scientific-computing).
+These are some notebooks I have written solving various maths or physics problems in Julia notebooks. The code for these can also be found [here](https://www.github.com/jackwoodside/scientific-computing).
 
 * [Epidemiology](https://jackwoodside.github.io/scientific-computing/epidemiology)
   * [Basic SIR Model](https://jackwoodside.github.io/scientific-computing/epidemiology/sir)
