@@ -8,6 +8,8 @@ These are some notebooks I have written solving various maths or physics problem
   * [Basic SIR Model](https://jackwoodside.github.io/scientific-computing/epidemiology/sir)
   * [SEIR Model](https://jackwoodside.github.io/scientific-computing/epidemiology/seir)
   * [Carrier States](https://jackwoodside.github.io/scientific-computing/epidemiology/carrier)
+* [Quantum Mechanics](https://jackwoodside.github.io/scientific-computing/quantum-mechanics)
+  * [Eigenstates of an Arbitrary 1D Potential](https://jackwoodside.github.io/scientific-computing/quantum-mechanics/1d-potential)
 
 ## Resources
 
