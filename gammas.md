@@ -13,6 +13,8 @@ Note: only gamma rays with at least 1 photon per 100 disintegrations are listed 
 | 356.0        | 62.05                     |
 | 383.8        |  8.94                     |
 
+Ref: M.-M. B\'e et al., *Table of Radionuclides*, Vol. 8. Monographie BIPM-5 (2016).
+
 ## Bi207
 
 | Energy (keV) | Photons (per 100 disint.) |
@@ -21,6 +23,8 @@ Note: only gamma rays with at least 1 photon per 100 disintegrations are listed 
 | 1063.7       | 74.58                     |
 | 1770.2       |  6.87                     |
 
+Ref: M.-M. B\'e et al., *Table of Radionuclides*, Vol. 5. Monographie BIPM-5 (2010).
+
 ## Co60
 
 | Energy (keV) | Photons (per 100 disint.) |
@@ -28,11 +32,15 @@ Note: only gamma rays with at least 1 photon per 100 disintegrations are listed 
 | 1173.2       | 99.85                     |
 | 1332.5       | 99.98                     |
 
+Ref: M.-M. B\'e et al., *Table of Radionuclides*, Vol. 3. Monographie BIPM-5 (2006).
+
 ## Cs137
 
 | Energy (keV) | Photons (per 100 disint.) |
 |-------------:|--------------------------:|
 |  661.7       | 85.01                     |
+
+Ref: *Table of Radionuclides*, Vol. 9. Monographie BIPM-5 (To Be Published).
 
 ## Eu152
 
@@ -52,3 +60,5 @@ Note: only gamma rays with at least 1 photon per 100 disintegrations are listed 
 | 1212.9       | 1.42                      |
 | 1299.1       | 1.63                      |
 | 1408.0       | 20.85                     |
+
+Ref: M.-M. B\'e et al., *Table of Radionuclides*, Vol. 2. Monographie BIPM-5 (2004).

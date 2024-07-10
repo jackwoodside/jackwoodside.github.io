@@ -1,5 +1,5 @@
-name: true
-title: false
+name: ""
+title: null
 markdown: kramdown
 kramdown:
   math_engine: katex
